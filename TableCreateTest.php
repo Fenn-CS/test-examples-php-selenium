@@ -3,16 +3,16 @@
 /**
  * Selenium TestCase for table related tests
  *
- * @package    PhpMyAdmin-test
+ * @package    TeraInform-test
  * @subpackage Selenium
  */
 
-namespace PhpMyAdmin\Tests\Selenium;
+namespace TeraInform\Tests\Selenium;
 
 /**
  * TableCreateTest class
  *
- * @package    PhpMyAdmin-test
+ * @package    TeraInform-test
  * @subpackage Selenium
  * @group      selenium
  */

@@ -3,16 +3,16 @@
 /**
  * Selenium TestCase for creating and deleting databases
  *
- * @package    PhpMyAdmin-test
+ * @package    TeraInform-test
  * @subpackage Selenium
  */
 
-namespace PhpMyAdmin\Tests\Selenium;
+namespace TeraInform\Tests\Selenium;
 
 /**
  * CreateDropDatabaseTest class
  *
- * @package    PhpMyAdmin-test
+ * @package    TeraInform-test
  * @subpackage Selenium
  * @group      selenium
  */

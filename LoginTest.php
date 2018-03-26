@@ -3,16 +3,16 @@
 /**
  * Selenium TestCase for login related tests
  *
- * @package    PhpMyAdmin-test
+ * @package    TeraInform-test
  * @subpackage Selenium
  */
 
-namespace PhpMyAdmin\Tests\Selenium;
+namespace TeraInform\Tests\Selenium;
 
 /**
  * LoginTest class
  *
- * @package    PhpMyAdmin-test
+ * @package    TeraInform-test
  * @subpackage Selenium
  * @group      selenium
  */
